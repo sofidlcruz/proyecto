@@ -23,8 +23,15 @@ def enter():
     espacio = input("\n\npresiona enter para continuar\n\n")
 
 def iva_dulce(dulce, iva):
-    porcentaje = dulce * iva
-    return porcentaje + dulce
+    """
+    función con lista que guarda en un acumuludor el
+    valor del iva y lo suma para sacar el valor total
+    """ 
+    acum = 0
+    for ren in range(3):
+        acum = dulce * iva
+        total= acum + dulce
+    return total
 
 def diferencia(num1,num2):
     dif = num1 - num2
@@ -107,6 +114,15 @@ def ciclo_3(dif):
         dif= (diferencia(p5,r5))
     return respuestacorrecta()
 ciclo_3(dif)
- 
+
+"""
+Lista sobre respuestas correctas con ciclo for
+"""
+print("Las respuestas correctas del test son:")
+
+lista = [r1,r2,'Monterrey',1917,1910]
+for valor in lista:#recorre la lista para dar los valores en orden
+    print (valor)
+    
 #fin del programa
 fin = input("\nEste es el fin del programa \n¡gracias por participar! ")
