@@ -11,7 +11,7 @@ Instrucciones
 Descargar el archivo
 Abrir con servidor Python o Thonny:
 
-Cultura.mexico.py
+Cultura_mexico.py
 
 -Responder a las preguntas que aparecen, el programa tiene instrucciones y no usa bibliotecas no standard.
 
