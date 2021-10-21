@@ -5,9 +5,11 @@ Contexto
 Si hay algo que define a un país y lo hace único es su cultura. Ver su sistema, sus tradiciones, su territorio  y viajar por su historia. En este examen se evaluara de forma dinámica a cualquier mexicano o extranjero con información importante e indispensable para moverse en el país.  El programa esta diseñado para  contestar preguntas sobre  historia, geografia y además evalua mediante ejercicios matemáticos la implementación correcta de la economía del país.
 Algunos de los beneficios al conocer la cultura general de México son la prosperidad de destinos turísticos, impacto en la economía y conexiones entre distintas culturas. 
 El examen es corto pero conciso, cuenta con 5 preguntas que evaluaran aspectos en la vida diaria.
+
 Bibliografía importante:
 
 Referencias del codigo: 
+
 RemcoGerlich. (2018). Python: significado de end = '' en la declaración print ("\ t", end = '')https://www.it-swarm-es.com/es/python/python-significado-de-end-en-la-declaracion-print-t-end/1050444189/
 
 Striver.(2018). Python math function | sqrt().
