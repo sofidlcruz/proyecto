@@ -6,14 +6,15 @@ Si hay algo que define a un país y lo hace único es su cultura. Ver su sistema
 Algunos de los beneficios al conocer la cultura general de México son la prosperidad de destinos turísticos, impacto en la economía y conexiones entre distintas culturas. 
 El examen es corto pero conciso, cuenta con 5 preguntas que evaluaran aspectos en la vida diaria.
 Bibliografía importante:
+
 Referencias del codigo: 
-RemcoGerlich. (2018). Python: significado de end = '' en la declaración print ("\ t", end = '')https://www.it-swarm-es.com/es/python/python-significado-de-end-en-la-declaracion-print-t-end/1050444189/ 
+RemcoGerlich. (2018). Python: significado de end = '' en la declaración print ("\ t", end = '')https://www.it-swarm-es.com/es/python/python-significado-de-end-en-la-declaracion-print-t-end/1050444189/
+
 Striver.(2018). Python math function | sqrt().
 https://www.geeksforgeeks.org/python-math-function-sqrt/#:~:text=sqrt()%20function%20is%20an,number%20passed%20in%20the%20parameter. 
 
 Investigación para el tema elegido:
-Jiménez, S.(2014).La construcción de la identidad nacional mexicana:
-Análisis del discurso para una comparación entre jóvenes.Tesis.
+Jiménez, S.(2014).La construcción de la identidad nacional mexicana: Análisis del discurso para una comparación entre jóvenes.Tesis.
 http://ri.uaemex.mx/handle/20.500.11799/13689 
 
 
